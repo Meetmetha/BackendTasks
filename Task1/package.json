@@ -1,0 +1,16 @@
+{
+  "name": "techalchemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sortedarray.js",
+  "scripts": {
+    "start": "node sortedarray.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "external-sort": "^1.0.0",
+    "fs": "0.0.1-security"
+  }
+}
