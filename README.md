@@ -4,7 +4,7 @@
 An assignment of 2 Tasks as follows :   
 Task 1: Sorting Large Array having limited memory  
 Task 2: RestAPI Interactaction with NewsAPI & OpenweatherAPI Auth
-RestAPI Hosted Live Here for Task 2: Check in Action [Check in Action](https://backendtask.miteshmetha.com) 🥳
+RestAPI Hosted Live Here for Task 2: Check in Action [Check in Action Taken Down](https://backendtask.miteshmetha.com) 🥳 
 
 # Task-1
 
